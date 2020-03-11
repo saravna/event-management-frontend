@@ -1,0 +1,19 @@
+.bookings-table td{
+    padding: 12px 20px;
+}
+
+.bookings-table button {
+    padding: 6px 10px;
+    margin: 5px;
+}
+
+.bookings-table {
+    margin-top: 70px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+table{
+    border-collapse: collapse;
+}
